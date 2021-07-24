@@ -1,0 +1,16 @@
+G:\TestCode\vs\Demo.WorkerService\MyApplication\bin\Debug\netcoreapp3.1\MyApplication.deps.json
+G:\TestCode\vs\Demo.WorkerService\MyApplication\bin\Debug\netcoreapp3.1\MyApplication.dll
+G:\TestCode\vs\Demo.WorkerService\MyApplication\bin\Debug\netcoreapp3.1\MyApplication.pdb
+G:\TestCode\vs\Demo.WorkerService\MyApplication\bin\Debug\netcoreapp3.1\Entity.dll
+G:\TestCode\vs\Demo.WorkerService\MyApplication\bin\Debug\netcoreapp3.1\MyInfrastructure.dll
+G:\TestCode\vs\Demo.WorkerService\MyApplication\bin\Debug\netcoreapp3.1\Repository.dll
+G:\TestCode\vs\Demo.WorkerService\MyApplication\bin\Debug\netcoreapp3.1\Repository.pdb
+G:\TestCode\vs\Demo.WorkerService\MyApplication\bin\Debug\netcoreapp3.1\Entity.pdb
+G:\TestCode\vs\Demo.WorkerService\MyApplication\bin\Debug\netcoreapp3.1\MyInfrastructure.pdb
+G:\TestCode\vs\Demo.WorkerService\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.csprojAssemblyReference.cache
+G:\TestCode\vs\Demo.WorkerService\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.AssemblyInfoInputs.cache
+G:\TestCode\vs\Demo.WorkerService\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.AssemblyInfo.cs
+G:\TestCode\vs\Demo.WorkerService\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.csproj.CoreCompileInputs.cache
+G:\TestCode\vs\Demo.WorkerService\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.csproj.CopyComplete
+G:\TestCode\vs\Demo.WorkerService\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.dll
+G:\TestCode\vs\Demo.WorkerService\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.pdb

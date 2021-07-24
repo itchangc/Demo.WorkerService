@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "w3EQJvtmrWP+FX7BHixo1xSVKbupNXuYkCf5pvUVe1a9zsjK6punCZzNw3O8f+Db3wiwL4lpX2jjI6MDYSdIrQ==",
+  "success": true,
+  "projectFilePath": "G:\\TestCode\\vs\\Demo.WorkerService\\MyInfrastructure\\MyInfrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

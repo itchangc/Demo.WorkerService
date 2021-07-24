@@ -1,0 +1,9 @@
+G:\TestCode\vs\Demo.WorkerService\MyInfrastructure\bin\Release\netcoreapp3.1\MyInfrastructure.deps.json
+G:\TestCode\vs\Demo.WorkerService\MyInfrastructure\bin\Release\netcoreapp3.1\MyInfrastructure.dll
+G:\TestCode\vs\Demo.WorkerService\MyInfrastructure\bin\Release\netcoreapp3.1\MyInfrastructure.pdb
+G:\TestCode\vs\Demo.WorkerService\MyInfrastructure\obj\Release\netcoreapp3.1\MyInfrastructure.csprojAssemblyReference.cache
+G:\TestCode\vs\Demo.WorkerService\MyInfrastructure\obj\Release\netcoreapp3.1\MyInfrastructure.AssemblyInfoInputs.cache
+G:\TestCode\vs\Demo.WorkerService\MyInfrastructure\obj\Release\netcoreapp3.1\MyInfrastructure.AssemblyInfo.cs
+G:\TestCode\vs\Demo.WorkerService\MyInfrastructure\obj\Release\netcoreapp3.1\MyInfrastructure.csproj.CoreCompileInputs.cache
+G:\TestCode\vs\Demo.WorkerService\MyInfrastructure\obj\Release\netcoreapp3.1\MyInfrastructure.dll
+G:\TestCode\vs\Demo.WorkerService\MyInfrastructure\obj\Release\netcoreapp3.1\MyInfrastructure.pdb

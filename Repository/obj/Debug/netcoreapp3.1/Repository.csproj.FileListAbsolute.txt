@@ -1,0 +1,17 @@
+G:\TestCode\vs\Demo.WorkerService\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+G:\TestCode\vs\Demo.WorkerService\Repository\bin\Debug\netcoreapp3.1\Repository.runtimeconfig.json
+G:\TestCode\vs\Demo.WorkerService\Repository\bin\Debug\netcoreapp3.1\Repository.runtimeconfig.dev.json
+G:\TestCode\vs\Demo.WorkerService\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+G:\TestCode\vs\Demo.WorkerService\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+G:\TestCode\vs\Demo.WorkerService\Repository\bin\Debug\netcoreapp3.1\Entity.dll
+G:\TestCode\vs\Demo.WorkerService\Repository\bin\Debug\netcoreapp3.1\MyInfrastructure.dll
+G:\TestCode\vs\Demo.WorkerService\Repository\bin\Debug\netcoreapp3.1\Entity.pdb
+G:\TestCode\vs\Demo.WorkerService\Repository\bin\Debug\netcoreapp3.1\MyInfrastructure.pdb
+G:\TestCode\vs\Demo.WorkerService\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+G:\TestCode\vs\Demo.WorkerService\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+G:\TestCode\vs\Demo.WorkerService\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+G:\TestCode\vs\Demo.WorkerService\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+G:\TestCode\vs\Demo.WorkerService\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+G:\TestCode\vs\Demo.WorkerService\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+G:\TestCode\vs\Demo.WorkerService\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+G:\TestCode\vs\Demo.WorkerService\Repository\obj\Debug\netcoreapp3.1\Repository.genruntimeconfig.cache

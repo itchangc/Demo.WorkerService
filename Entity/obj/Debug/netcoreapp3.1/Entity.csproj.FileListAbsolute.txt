@@ -1,0 +1,9 @@
+G:\TestCode\vs\Demo.WorkerService\Entity\bin\Debug\netcoreapp3.1\Entity.deps.json
+G:\TestCode\vs\Demo.WorkerService\Entity\bin\Debug\netcoreapp3.1\Entity.dll
+G:\TestCode\vs\Demo.WorkerService\Entity\bin\Debug\netcoreapp3.1\Entity.pdb
+G:\TestCode\vs\Demo.WorkerService\Entity\obj\Debug\netcoreapp3.1\Entity.csprojAssemblyReference.cache
+G:\TestCode\vs\Demo.WorkerService\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfoInputs.cache
+G:\TestCode\vs\Demo.WorkerService\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfo.cs
+G:\TestCode\vs\Demo.WorkerService\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.CoreCompileInputs.cache
+G:\TestCode\vs\Demo.WorkerService\Entity\obj\Debug\netcoreapp3.1\Entity.dll
+G:\TestCode\vs\Demo.WorkerService\Entity\obj\Debug\netcoreapp3.1\Entity.pdb
